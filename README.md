@@ -18,4 +18,5 @@ Website Figma -- https://www.figma.com/
 Edit this Readme.md by attach link of your figma design.
 
 Paste you Figma designe here : 
-
+Design Prototype : https://www.figma.com/file/oosFC9Mk8cIxtMFFL7jzUX/Gymmini?node-id=3%3A2&t=W2qwADLqcjtJPSLy-1
+Figjam : https://www.figma.com/file/QFeRITeeaEfzJ4b9fUb5yD/Gymmini?node-id=0%3A1&t=C2nJ5TZpPzXKGeQE-1
